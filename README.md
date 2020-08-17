@@ -5,4 +5,4 @@ We have to predict survival on Titanic, given data like `Name`, `Age`, `Sex`, `T
 The dataset has been distributed in 2sets: (1) Training Data (2) Testing Data.<br>
 
 Dataset Description:
-<img src="images/data_set.png" style="width:700px;height:300px;">
+<img src="images/data_set.PNG" style="width:700px;height:300px;">
